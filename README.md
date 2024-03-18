@@ -7,4 +7,4 @@
 
 <img src="https://github.com/zzuZYH/WiLCount/assets/137862443/7b729e44-3d28-4d7b-b312-e40acff8da83" width="400" height="400"/><img src="https://github.com/zzuZYH/WiLCount/assets/137862443/fec56869-8640-475c-8e01-8b8f2849bcd8" width="400" height="400"/>
 
-WiLCount数据集免费公开，仅用于非盈利性学术研究。（下载链接：链接：链接：https://pan.baidu.com/s/1JJpbLcmROGs2bC8-ro32YQ 提取码：zzu6）。 下载完成为WiLCount.zip压缩包，其中CSI数据为“受测者人数_状态编号-csi.mat”格式文件，例如：1people_stand3-csi.mat。1people表示受测人数为1人，stand表示活动状态为站立，3表示编号为3。mat文件中保存原始CSI数据，可从其中提取相应振幅与相位数据。
+WiLCount数据集免费公开，仅用于非盈利性学术研究。（下载链接：链接：链接：https://pan.baidu.com/s/1JJpbLcmROGs2bC8-ro32YQ 提取码：zzu6）。 下载完成为WiLCount.zip压缩包，解压密码：1548。其中CSI数据为“受测者人数_状态编号-csi.mat”格式文件，例如：1people_stand3-csi.mat。1people表示受测人数为1人，stand表示活动状态为站立，3表示编号为3。mat文件中保存原始CSI数据，可从其中提取相应振幅与相位数据。
